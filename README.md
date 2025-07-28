@@ -10,19 +10,6 @@ This repo is a growing portfolio to:
 * Demonstrate troubleshooting, scripting, and configuration abilities
 * Help others learning the same path find real-world examples
 
-📁 Repository Structure
-
-├── azure/
-│   ├── screenshots/
-│   └── README.md   ← Documentation for Azure-based labs
-├── virtualization/
-│   └── README.md   ← VirtualBox or Hyper-V setup walkthroughs (coming soon)
-├── networking/
-│   └── README.md   ← Networking labs, configs, and diagrams (coming soon)
-├── powershell/
-│   └── README.md   ← PowerShell automation and scripting labs (coming soon)
-└── README.md       ← You are here: repo navigation and overview
-
 📚 Lab Categories
 
 ✅ Azure Labs

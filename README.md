@@ -12,7 +12,16 @@ This repo is a growing portfolio to:
 
 📁 Repository Structure
 
-<pre> 📁 ├── <a href="./azure/README.md">azure/</a> │ ├── screenshots/ │ └── README.md ← Documentation for Azure-based labs ├── <a href="">virtualization/</a> │ └── README.md ← VirtualBox or Hyper-V setup walkthroughs (coming soon) ├── <a href="">networking/</a> │ └── README.md ← Networking labs, configs, and diagrams (coming soon) ├── <a href="">powershell/</a> │ └── README.md ← PowerShell automation and scripting labs (coming soon) └── README.md ← You are here: repo navigation and overview </pre>
+├── azure/
+│   ├── screenshots/
+│   └── README.md   ← Documentation for Azure-based labs
+├── virtualization/
+│   └── README.md   ← VirtualBox or Hyper-V setup walkthroughs (coming soon)
+├── networking/
+│   └── README.md   ← Networking labs, configs, and diagrams (coming soon)
+├── powershell/
+│   └── README.md   ← PowerShell automation and scripting labs (coming soon)
+└── README.md       ← You are here: repo navigation and overview
 
 📚 Lab Categories
 

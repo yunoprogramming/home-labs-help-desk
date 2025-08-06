@@ -1,6 +1,6 @@
 🧪 IT Home Labs
 
-Welcome to my personal lab portfolio, where I document my IT labs related to systems administration, networking, cloud, and cybersecurity. Each folder contains step-by-step walkthroughs, screenshots, and lessons learned from real-world simulations.
+Welcome to my personal lab portfolio! This is where I'll be documenting IT labs related to systems administration, networking, cloud, and cybersecurity. Each folder contains step-by-step walkthroughs, screenshots, and lessons learned from real-world simulations.
 
 💡 Purpose of This Repo
 

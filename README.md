@@ -2,7 +2,7 @@
 
 Welcome to my personal lab portfolio, where I document my IT labs related to systems administration, networking, cloud, and cybersecurity. Each folder contains step-by-step walkthroughs, screenshots, and lessons learned from real-world simulations.
 
-🧠 Purpose of This Repo
+💡 Purpose of This Repo
 
 This repo is a growing portfolio to:
 * Build and showcase practical IT skills
@@ -10,9 +10,9 @@ This repo is a growing portfolio to:
 * Demonstrate troubleshooting, scripting, and configuration abilities
 * Help others learning the same path find real-world examples
 
-📚 Lab Categories
+🗄️ Lab Categories
 
-✅ Azure Labs
+☁️ Azure Labs
 Practical labs using Microsoft Azure VMs and services. Includes OS configuration, remote desktop setup, and troubleshooting experience.
 
 ➡️ [Explore Azure Labs](./Azure/)
@@ -23,5 +23,5 @@ Hands-on labs using VirtualBox and Hyper-V to create isolated testing environmen
 🌐 Networking (coming soon)
 Labs related to IP addressing, DNS, DHCP, firewall rules, subnetting, and network simulation using tools like Cisco Packet Tracer or GNS3.
 
-⚙️ PowerShell & Automation (coming soon)
+🤖 Scripting & Automation (coming soon)
 Command-line automation labs focused on scripting with PowerShell and Bash to reduce manual work in IT environments.
